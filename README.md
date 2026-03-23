@@ -63,6 +63,12 @@ http://localhost:8080/api/students
 ```
 ## 📸 Screenshots  
 
+### 🔹 CONSOLE 
+
+![console](rest_api/images/console.png)
+
+---
+
 ### 🔹 GET OUTPUT  
 
 ![get Output](rest_api/images/get.png)
