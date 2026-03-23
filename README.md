@@ -57,6 +57,7 @@ http://localhost:8080/api/students
   "name": "Manya",
   "course": "AIML"
 }
+```
 
 📸 Screenshots
 🔹 Postman Output
