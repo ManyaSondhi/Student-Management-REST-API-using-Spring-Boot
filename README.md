@@ -71,20 +71,25 @@ http://localhost:8080/api/students
 ![Localhost Output](images/localhost.png)
 
 
-##⚙️ How to Run
+## ⚙️ How to Run
+
+```bash
 git clone https://github.com/your-username/rest-api.git
 cd rest-api
 mvn spring-boot:run
+```
 
-##🧠 Architecture
+## 🧠 Architecture  
 
-Controller → Handles HTTP requests
-Service → Business logic
-Repository → Database operations
-Model → Entity representation
+- **Controller Layer** → Handles HTTP requests and responses  
+- **Service Layer** → Contains business logic  
+- **Repository Layer** → Performs database operations  
+- **Model Layer** → Represents the entity structure
+- 
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
 
-👩‍💻 Author
-Manya Sondhi
+## 👩‍💻 Author  
+
+**Manya Sondhi**
