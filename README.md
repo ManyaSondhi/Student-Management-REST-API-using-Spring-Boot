@@ -47,6 +47,9 @@ http://localhost:8080/api/students
 | GET | `/api/students` | Get all students |
 | GET | `/api/students/{id}` | Get student by ID |
 | POST | `/api/students` | Add new student |
+| DELETE | `/api/students/{id}` | Delete student by ID|
+| PUT | `/api/students{id}` | Update student by ID |
+
 
 ---
 
@@ -60,9 +63,27 @@ http://localhost:8080/api/students
 ```
 ## 📸 Screenshots  
 
-### 🔹 Postman Output  
+### 🔹 GET OUTPUT  
 
-![Postman Output](rest_api/images/postman.png)
+![get Output](rest_api/images/get.png)
+
+---
+
+### 🔹 PUT OUTPUT 
+
+![put Output](rest_api/images/put.png)
+
+---
+
+### 🔹 POST OUTPUT 
+
+![post Output](rest_api/images/post.png)
+
+---
+
+### 🔹 DELETE OUTPUT 
+
+![delete Output](rest_api/images/delete.png)
 
 ---
 
