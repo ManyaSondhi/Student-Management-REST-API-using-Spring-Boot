@@ -58,19 +58,26 @@ http://localhost:8080/api/students
   "course": "AIML"
 }
 ```
+## 📸 Screenshots  
 
-📸 Screenshots
-🔹 Postman Output
-<p align="center"> <img src="images/postman.png" width="700"/> </p>
-🔹 Localhost Output
-<p align="center"> <img src="images/localhost.png" width="700"/> </p>
+### 🔹 Postman Output  
 
-⚙️ How to Run
+![Postman Output](images/postman.png)
+
+---
+
+### 🔹 Localhost Output  
+
+![Localhost Output](images/localhost.png)
+
+
+##⚙️ How to Run
 git clone https://github.com/your-username/rest-api.git
 cd rest-api
 mvn spring-boot:run
 
-🧠 Architecture
+##🧠 Architecture
+
 Controller → Handles HTTP requests
 Service → Business logic
 Repository → Database operations
