@@ -62,13 +62,13 @@ http://localhost:8080/api/students
 
 ### 🔹 Postman Output  
 
-![Postman Output](images/postman.png)
+![Postman Output](rest_api/images/postman.png)
 
 ---
 
 ### 🔹 Localhost Output  
 
-![Localhost Output](images/localhost.png)
+![Localhost Output](rest_api/images/localhost.png)
 
 
 ## ⚙️ How to Run
